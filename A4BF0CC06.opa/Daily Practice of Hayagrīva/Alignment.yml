@@ -1,0 +1,19 @@
+segment_sources:
+  P942F2FAA:
+    type: origin_type
+    relation: translation
+    language: en
+  P1186A374:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5ed25cae11244290911e29fddcc73175:
+    P942F2FAA: e0a3c1201c23415089d922f6c0f9cf98
+    P1186A374: 7a67a535f32942eb8d88a5eb6cef1c59
+  30747277407847028350a88866c68172:
+    P942F2FAA: 6a9c7e03764b40ed9184165e454db439
+    P1186A374: f938f95657ba42968fb83ebeb173c0d6
+  32ccede6dc9c42eaaa85554dabaaf228:
+    P942F2FAA: a4e027b5313246a88e2efc4023fa65f6
+    P1186A374: 22a5ef99fc3c4db4add0ed71c2a6079e

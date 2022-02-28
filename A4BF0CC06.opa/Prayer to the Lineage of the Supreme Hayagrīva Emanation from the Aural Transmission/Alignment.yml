@@ -1,0 +1,28 @@
+segment_sources:
+  P942F2FAA:
+    type: origin_type
+    relation: translation
+    language: en
+  P1186A374:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0df43b4f089b42b483aec841f69a4d1d:
+    P942F2FAA: c9ca890b32a74fdaab2bd6bce27cc1cc
+    P1186A374: b288169635e1406999e2262d67d04835
+  fc364b1314f54defa142e84639dc945a:
+    P942F2FAA: 32f55b857ece427dbe0f76de3e3d6b05
+    P1186A374: 8dc0b3da6e064091ab41352db1a9475f
+  bcdd117963c847c39e3c0be2220c8d79:
+    P942F2FAA: 9762ce3ae128418da0fc2f99737f0741
+    P1186A374: 42e6d513d9dc4200bfb3f2b40c37530a
+  99030fc39f6f4276a7a021d721bb0b95:
+    P942F2FAA: 8909e7625a634b60abd5d217037f35cc
+    P1186A374: 8f561f78f59e4a67b139adeadb361e39
+  bfed2a6cb30f440d934c979070fbb9be:
+    P942F2FAA: f1ab380026d2474b870ab3e99c7118d9
+    P1186A374: 9c9e4ae9a869443cb2115ba0082ca499
+  5280b45365b5475a9f2aa7a390ce5d3e:
+    P942F2FAA: 82916f0d1909471d9e9b642af75b368f
+    P1186A374: ee741b78493348e1b947b9a8aa3a769d
